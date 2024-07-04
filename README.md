@@ -9,8 +9,8 @@
 </body>
 </html>
 
-<h1>Statistics for data science </h1>
+<h1> Strategic Synergies </h1>
 
-This folder contains codes on Python to practice statistics for <b> Data Science ! </b>
+This folder contains codes with Python for Economics </b>
 
 Link to my articles : https://medium.com/@soulawalid/list/strategic-business-intelligence-1528f08575a7
