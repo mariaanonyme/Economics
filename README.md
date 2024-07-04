@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <img src="[[[https://miro.medium.com/v2/resize:fit:1867/1*pgUut7ZdmnlmX0FDIwJ7Yw.jpeg](https://drive.google.com/file/d/1ivXawVNtBIBMXcvWDQJwBtFOwH_3VbJO/view?usp=sharing)](https://github.com/basiszeus/Economics/blob/main/Strategic%20Synergies.jpg)](https://raw.githubusercontent.com/basiszeus/Economics/main/Strategic%20Synergies.jpg)" alt="Strategic Synergies Image" style="width:100%; max-width:600px;">
+    <img src="https://raw.githubusercontent.com/basiszeus/Economics/main/Strategic%20Synergies.jpg" alt="Strategic Synergies Image" style="width:100%; max-width:600px;">
 </body>
 </html>
 
